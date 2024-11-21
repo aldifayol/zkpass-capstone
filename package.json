@@ -10,11 +10,15 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@tanstack/react-query": "^5.61.0",
+    "@wagmi/cli": "^2.1.18",
     "@zkpass/transgate-js-sdk": "^0.3.1",
     "ethers": "^6.13.4",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
+    "viem": "^2.21.48",
     "vite-plugin-node-polyfills": "^0.22.0",
+    "wagmi": "^2.13.0",
     "web3": "^4.15.0"
   },
   "devDependencies": {
